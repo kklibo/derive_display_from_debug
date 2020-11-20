@@ -1,6 +1,6 @@
 [package]
 name = "derive_display_from_debug"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["kklibo"]
 edition = "2018"
 description = "A trivial Rust macro to derive the Display trait for any type with the Debug trait"
