@@ -8,7 +8,7 @@ homepage = "https://github.com/kklibo/derive_display_from_debug"
 repository = "https://github.com/kklibo/derive_display_from_debug"
 readme = "README.md"
 license-file = "LICENSE"
-license = "CC0-1.0 License"
+license = "CC0-1.0"
 
 
 [lib]
